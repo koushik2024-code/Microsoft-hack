@@ -70,8 +70,6 @@ npm run dev
 cd frontend && npm run dev
 ```
 
-Open http://localhost:5173 to see the dashboard.
-
 ### Environment Variables
 
 | Variable | Required | Description |
